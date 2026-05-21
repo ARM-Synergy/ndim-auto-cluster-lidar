@@ -2,15 +2,15 @@
 
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ARM-Development/arm-cookbook-template/main?labpath=notebooks)
 
-This ARM Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., *working with radar data in Python*)
+This ARM Cookbook covers N-Dimensional Auto-Clustering of Lidar Measurements to define Defacto Aerosol Types in Python
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+HSLR instruments are expensive and rare. If their clusters can be reproduced with cheap uncalibrated LIDARs, research-grade aerosol can be extended to sites that cannot afford HSRL.
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. *Acknowledge primary content authors here*
+[Zohaer Al Mahatab](@priom-mahatab), [Connor Flynn](@ConnorJFlynn), [Bhupendra Raut]()
 
 ### Contributors
 
