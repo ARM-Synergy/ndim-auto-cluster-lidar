@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# N-Dimensional Auto-Clustering of Lidar Measurements to define Defacto Aerosol Types Cookbook
 
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ARM-Development/arm-cookbook-template/main?labpath=notebooks)
 
@@ -10,13 +10,13 @@ HSLR instruments are expensive and rare. If their clusters can be reproduced wit
 
 ## Authors
 
-[Zohaer Al Mahatab](@priom-mahatab), [Connor Flynn](@ConnorJFlynn), [Bhupendra Raut]()
+[Zohaer Al Mahatab](https://github.com/priom-mahatab), [Connor Flynn](https://github.com/ConnorJFlynn), [Bhupendra Raut]()
 
-### Contributors
+<!-- ### Contributors
 
 <a href="https://github.com/ARM-Development/arm-cookbook-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ARM-Development/arm-cookbook-template" />
-</a>
+</a> -->
 
 ## Structure
 (State one or more sections that will comprise the notebook. E.g., *This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."* Then, describe each section below.)
