@@ -2,6 +2,8 @@
 
 # N-Dimensional Auto-Clustering of Lidar Measurements to define Defacto Aerosol Types
 
+[![DOI](https://zenodo.org/badge/1244934236.svg)](https://doi.org/10.5281/zenodo.20936642)
+
 ![arms-race](/notebooks/images/ndim_cluster_photo.jpg)
 
 ## [2026 ARM Summer School](https://arm-development.github.io/arm-summer-school-2026/) Project 
